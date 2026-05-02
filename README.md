@@ -79,8 +79,9 @@ Senior Software Engineer with 5+ years building production-grade systems. I spec
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pcpranav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pranav's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcpranav&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+    <img src="https://raw.githubusercontent.com/pcpranav/pcpranav/profile-summary-card-output/profile-summary-card-output/tokyo-night/3-stats.svg" alt="Stats" />
+    <img src="https://raw.githubusercontent.com/pcpranav/pcpranav/profile-summary-card-output/profile-summary-card-output/tokyo-night/1-repos-per-language.svg"
+  alt="Top Languages" />
 </p>
 
 ### 🐍 Contribution Snake
