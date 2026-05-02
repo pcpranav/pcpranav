@@ -76,15 +76,8 @@ Senior Software Engineer with 5+ years building production-grade systems. I spec
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="left">
-    <img src="https://raw.githubusercontent.com/pcpranav/pcpranav/profile-summary-card-output/profile-summary-card-output/tokyo-night/3-stats.svg" alt="Stats" />
-    <img src="https://raw.githubusercontent.com/pcpranav/pcpranav/profile-summary-card-output/profile-summary-card-output/tokyo-night/1-repos-per-language.svg"
-  alt="Top Languages" />
-</p>
-
-### 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/pcpranav/pcpranav/output/github-contribution-grid-snake.svg)
 
