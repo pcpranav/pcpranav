@@ -11,6 +11,8 @@ Building scalable APIs, AI/LLM-powered products, and event-driven systems on AWS
 [Medium](https://pcpranavchandra.medium.com/) &nbsp;·&nbsp;
 💼 [LinkedIn](https://www.linkedin.com/in/pranav-chandra-dev/)
 
+> 🔧 **The Garage →** [pranavs-garage.vercel.app](https://pranavs-garage.vercel.app/) — a live workshop of everything I'm currently building. Shipped, in-the-shop, parked.
+
 ---
 
 ## 🌌 About Me
@@ -28,8 +30,10 @@ Senior Software Engineer with 5+ years building production-grade systems. I spec
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| **[The Garage](https://pranavs-garage.vercel.app/)** | Workshop hub — every build I'm shipping (or still tuning) on a single page, with status badges and filters | HTML · CSS · Vanilla JS |
 | **[App Architect](https://promptcraft-io.vercel.app/)** | 5-phase AI design workflow turning app ideas into production-ready TDD prompts | Claude Artifacts · JavaScript · Vercel |
 | **[Sitecraft](https://wiz-craft.vercel.app/)** | Free AI website builder running on multi-model open-source endpoints (Cerebras Qwen, Groq Llama 4, OpenRouter Ling, Cloudflare GPT-OSS) | Next.js 16 · React 19 · Auth.js · Vercel Postgres · Multi-LLM |
+| **[DevPulse](https://devpulse-dash.vercel.app/)** | Unified monitoring dashboard for Vercel / Netlify / Supabase deployments with encrypted token storage and alerts | Next.js · NextAuth · Vercel Postgres |
 
 ---
 
