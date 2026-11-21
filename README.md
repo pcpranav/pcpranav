@@ -30,6 +30,7 @@ Senior Software Engineer with 5+ years building production-grade systems. I spec
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| **[Nuo](https://nuo-app.vercel.app/)** | Flagship app, live on [Google Play](https://play.google.com/store/apps/details?id=app.nuo.twa) and the web: notes and tasks in one calm place, end-to-end encrypted (everything, folder names included, is encrypted on-device with your password; the server never holds the key). Block editor, My Day, nested folders, and shared folders that stay encrypted: the owner approves who joins, and removing someone re-keys the folder. Free | Next.js 16 · React 19 · TypeScript · tRPC · Prisma · Supabase · PWA / TWA |
 | **[The Garage](https://pranavs-garage.vercel.app/)** | Workshop hub — every build I'm shipping (or still tuning) on a single page, with status badges and filters | HTML · CSS · Vanilla JS |
 | **[App Architect](https://promptcraft-io.vercel.app/)** | 5-phase AI design workflow turning app ideas into production-ready TDD prompts | Claude Artifacts · JavaScript · Vercel |
 | **[Sitecraft](https://wiz-craft.vercel.app/)** | Free AI website builder running on multi-model open-source endpoints (Cerebras Qwen, Groq Llama 4, OpenRouter Ling, Cloudflare GPT-OSS) | Next.js 16 · React 19 · Auth.js · Vercel Postgres · Multi-LLM |
@@ -45,6 +46,7 @@ Senior Software Engineer with 5+ years building production-grade systems. I spec
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 
 **Backend**
 
@@ -54,6 +56,7 @@ Senior Software Engineer with 5+ years building production-grade systems. I spec
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
 
 **Databases**
 
@@ -61,6 +64,8 @@ Senior Software Engineer with 5+ years building production-grade systems. I spec
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-1B17F5?style=for-the-badge)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **Cloud & DevOps**
 
